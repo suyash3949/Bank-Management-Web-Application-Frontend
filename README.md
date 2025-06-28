@@ -1,1 +1,0 @@
-# Bank-Management-Web-Application-Frontend
